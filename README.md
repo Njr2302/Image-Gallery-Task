@@ -10,7 +10,7 @@
 
 ## Features
 
-- Responsive grid: 1 column on mobile, 3 on tablet, 4–6 on desktop
+- Responsive grid:- 1 column on mobile, 3 on tablet, 4–6 on desktop
 - Fullscreen lightbox viewer with descriptive captions
 - Images loaded dynamically from a JavaScript array for easy updates
 - Modern styling using Tailwind CSS
@@ -19,7 +19,7 @@
 
 1. Clone or download this repository  
 2. Open the `gallery.html` file in any modern web browser  
-3. No installation needed; just open and enjoy!
+3. No installation needed
 
 ## Credits
 
